@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/artificialhoney/just-the-docs.git
-  revision: bc368b774a75a5159d4c01fdeb193d2e04c67d66
-  branch: main
+  revision: d94b6e2340ec47f085dcec0aaa55f5895955e77c
+  branch: honeymachine
   specs:
     just-the-docs (0.7.0)
       jekyll (>= 3.8.5)
