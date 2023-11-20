@@ -63,3 +63,9 @@ git mv --force myfile MyFile
 ```bash
 git reset --hard && git clean -df
 ```
+
+## [How do I clone a specific Git branch?](https://stackoverflow.com/questions/1911109/how-do-i-clone-a-specific-git-branch)
+
+```bash
+git clone -b <branch> <remote_repo>
+```
