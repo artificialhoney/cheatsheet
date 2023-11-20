@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/artificialhoney/just-the-docs.git
-  revision: f888d14e01f760ff394f5da4dd793f15f9753f2d
+  revision: e47a794a20a634416e60f50137cc1c1ee8a69331
   branch: honeymachine
   specs:
     just-the-docs (0.7.0)

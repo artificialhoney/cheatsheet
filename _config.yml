@@ -18,10 +18,12 @@ sass:
 color_scheme: honeymachine
 
 aux_links:
-  "Just the Docs on GitHub": 
-    - "https://github.com/artificialhoney/books/cheatsheet"
+  "GitHub": "https://github.com/artificialhoney/cheatsheet"
 
 nav_external_links: []
+
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/artificialhoney/cheatsheet" # the github URL for your repo
 
 # Footer content
 # appears at the bottom of every page's main content
