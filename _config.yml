@@ -8,6 +8,9 @@ description: >
 url: "https://artificialhoney.github.io"
 baseurl: "/cheatsheet"
 
+exclude:
+  - just-the-docs
+
 theme: just-the-docs
 
 sass:

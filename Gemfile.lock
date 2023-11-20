@@ -1,5 +1,5 @@
 PATH
-  remote: ../just-the-docs
+  remote: just-the-docs
   specs:
     just-the-docs (0.7.0)
       jekyll (>= 3.8.5)
