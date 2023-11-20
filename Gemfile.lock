@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/artificialhoney/just-the-docs.git
-  revision: d94b6e2340ec47f085dcec0aaa55f5895955e77c
+  revision: f888d14e01f760ff394f5da4dd793f15f9753f2d
   branch: honeymachine
   specs:
     just-the-docs (0.7.0)
@@ -22,7 +22,6 @@ GEM
     eventmachine (1.2.7)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
-    google-protobuf (3.25.1-arm64-darwin)
     google-protobuf (3.25.1-x86_64-linux)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
@@ -70,8 +69,6 @@ GEM
     rexml (3.2.6)
     rouge (4.2.0)
     safe_yaml (1.0.5)
-    sass-embedded (1.69.5-arm64-darwin)
-      google-protobuf (~> 3.23)
     sass-embedded (1.69.5-x86_64-linux-gnu)
       google-protobuf (~> 3.23)
     terminal-table (3.0.2)
@@ -80,7 +77,6 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  arm64-darwin-23
   x86_64-linux
 
 DEPENDENCIES
