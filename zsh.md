@@ -7,7 +7,7 @@ nav_order: 2
 
 # zsh
 
-## Needful things
+## [Oh my ZSH with zsh-autosuggestions zsh-syntax-highlighting zsh-fast-syntax-highlighting and zsh-autocomplete](https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df)
 
 ```bash
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
@@ -17,4 +17,23 @@ git clone https://github.com/marlonrichert/zsh-autocomplete.git ~/.oh-my-zsh/cus
 
 # ~/.zshrc
 # plugins=(git zsh-autosuggestions zsh-syntax-highlighting fast-syntax-highlighting zsh-autocomplete)
+```
+
+## [Install NVM](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+```
+
+## [Install RVM](https://github.com/rvm/rvm#installing-rvm)
+
+```bash
+gpg --keyserver keyserver.ubuntu.com --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+curl -sSL https://get.rvm.io | bash -s stable
+```
+
+## [Install Pyenv](https://github.com/pyenv/pyenv#installation)
+
+```bash
+curl https://pyenv.run | bash
 ```
