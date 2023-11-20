@@ -1,0 +1,33 @@
+title: Cheatsheet
+longtitle: Cheatsheet
+author: Sebastian Krüger
+email: sk@honeymachine.io
+description: >
+  Some snippets i collect through debugging.
+
+url: "https://artificialhoney.github.io"
+baseurl: "/cheatsheet"
+
+theme: just-the-docs
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Just The Docs
+color_scheme: honeymachine
+
+aux_links:
+  "Just the Docs on GitHub": 
+    - "https://github.com/artificialhoney/books/cheatsheet"
+
+nav_external_links: []
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: ""
