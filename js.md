@@ -115,3 +115,18 @@ function debounce(func, wait, immediate) {
     };
 })();
 ```
+
+## [Convert camelCaseText to Title Case Text](https://stackoverflow.com/questions/7225407/convert-camelcasetext-to-title-case-text)
+
+```js
+function camelCaseToWords(s) {
+  const result = s.replace(/([A-Z])/g, ' $1');
+  return result.charAt(0).toUpperCase() + result.slice(1);
+}
+```
+
+## [Replace a Regex capture group with uppercase in Javascript](https://stackoverflow.com/questions/6142922/replace-a-regex-capture-group-with-uppercase-in-javascript)
+
+```js
+a.replace(/(f)/, x => x.toUpperCase())
+```
