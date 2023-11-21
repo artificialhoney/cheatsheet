@@ -130,3 +130,9 @@ function camelCaseToWords(s) {
 ```js
 a.replace(/(f)/, x => x.toUpperCase())
 ```
+
+## [How to terminate the script in JavaScript](https://stackoverflow.com/questions/550574/how-to-terminate-the-script-in-javascript)
+
+```js
+throw '';
+```
