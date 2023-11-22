@@ -23,3 +23,12 @@ textarea {
 }
 
 ```
+
+## [Changing the text selection color using CSS](https://stackoverflow.com/questions/10578073/changing-the-text-selection-color-using-css)
+
+```css
+::selection {
+    background-color: #352e7e;
+    color: #fff;
+}
+```
