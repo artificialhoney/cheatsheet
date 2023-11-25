@@ -136,3 +136,9 @@ a.replace(/(f)/, x => x.toUpperCase())
 ```js
 throw '';
 ```
+
+## [Scroll Automatically to the Bottom of the Page](https://stackoverflow.com/questions/11715646/scroll-automatically-to-the-bottom-of-the-page)
+
+```js
+window.scrollTo(0, document.body.scrollHeight);
+```
